@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="corejavabook" />
-        <module name="atomics" />
         <module name="designpattern" />
+        <module name="atomics" />
+        <module name="bloomfilter" />
       </profile>
     </annotationProcessing>
   </component>
