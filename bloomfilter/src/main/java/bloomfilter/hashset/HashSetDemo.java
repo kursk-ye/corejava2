@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class HashSetDemo {
   static Set<String> backListIPs = new HashSet<String>();
-  static final long total = 100_000_000L;
+  static final long total = 10_000_000L;
 
   static Set<String> pushList(Set<String> list) {
 
