@@ -1,6 +1,6 @@
 package DesignPattern.prototype;
 
-import concurrency.bounce.BallComponent;
+//import concurrency.bounce.BallComponent;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
